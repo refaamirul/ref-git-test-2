@@ -9,5 +9,9 @@
 <body>
   <h1>refaamirul</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, tenetur ea rem ipsum quam beatae distinctio a eum. A recusandae autem tempore, est dolorem nostrum iste numquam impedit architecto incidunt?</p>
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+  </ul>
 </body>
 </html>
